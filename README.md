@@ -9,16 +9,16 @@ It is made in Jekyll, but otherwise it is just files that may be edited, merged 
 To use
 -----------
 
-1. Fork it 
-2. Clone it
-3. install jekyll
+1. [Fork it](https://help.github.com/articles/fork-a-repo/)
+2. [Clone it](https://git-scm.com/docs/git-clone)
+3. [Install jekyll](https://jekyllrb.com/docs/installation/)
 4. cd hackathon2016
 5. run *jekyll serve*
 6. go to [http://localhost:4000](http://localhost:4000) to see the result
 
-Update the site, issue a git commit, push it and do a pull request to get it included in the live website.
+Update the site, issue a git commit, push it and do a [pull request](https://help.github.com/articles/using-pull-requests/) to get it included in the live website.
 
-Please note we are using the gh-pages branch enable the github feature that automatically creates the [github.io website](http://moozer.github.io/hackaerthon2016).
+Please note we are using the gh-pages branch enable the github feature that automatically creates the [github.io website](http://moozer.github.io/hackerthon2016).
 
 Feeback
 ----------
