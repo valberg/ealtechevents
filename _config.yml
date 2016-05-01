@@ -2,10 +2,13 @@
 title: EAL hackathon May 2016
 email: mon@eal.dk
 description: "EAL hackathon is an event organised by the EAL tech event team. We want to promote cool tech and make people meetup and work together to inspire and help each other"
-baseurl: ""
+#baseurl: ""
 #url: "http://yourdomain.com"
 #twitter_username: jekyllrb
 #github_username:  jekyll
+
+#url: http://jedd-ahyoung.github.com
+baseUrl: /hackathon2016/
 
 # Build settings
 markdown: kramdown
