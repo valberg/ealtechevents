@@ -8,7 +8,7 @@ description: "EAL hackathon is an event organised by the EAL tech event team. We
 #github_username:  jekyll
 
 url: https://moozer.github.io
-baseUrl: /hackathon2016
+baseurl: /hackathon2016
 
 # Build settings
 markdown: kramdown
