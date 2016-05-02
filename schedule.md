@@ -18,7 +18,7 @@ Friday
 
 | Time  | Comment |
 | ------------- | ------------- |
-| 18:00  | Content Cell  |
+| 18:00  | Official start  |
 | 19:00  | Ordering pizzas?  |
 | 20:00-22:00  | Crypto party  |
 
