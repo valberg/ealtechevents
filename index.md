@@ -30,7 +30,7 @@ Who should come?
 I want to come, now what?
 -----------------------------
 
-Go to the registration page to [sign up](signup/)
+Go to the registration page to [sign up](about/)
 
 Bootnotes
 --------------
