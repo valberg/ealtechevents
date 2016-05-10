@@ -8,7 +8,7 @@ Welcome to the site. Here we collect the information related to EAL hackathon.
 What is this?
 ---------------
 
-We are doing a hackathon at EAL in Odense on the weekend the May 20th to 22nd 2016.
+We are doing a hackathon at EAL in Odense on the weekend May 20th to 22nd 2016.
 
 This is repeat of the succesfull hackathon in November, and we are planning a series of tech events in the future. Now, we even have an EAL tech event group set up.
 

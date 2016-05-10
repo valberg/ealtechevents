@@ -15,8 +15,8 @@ We are also hosting an invite-only LAN party on the premises.
 
 Planned events so far
 
-Friday
--------
+Friday May 20th
+------------------
 
 | Time  | Comment |
 | ------------- | ------------- |
@@ -25,8 +25,8 @@ Friday
 | 20:00-22:00  | Crypto party  |
 
 
-Saturday
---------
+Saturday May 21st
+--------------------
 
 Note that specific timeslots are not fixed yet.
 
@@ -40,8 +40,8 @@ Note that specific timeslots are not fixed yet.
 | 19:00  | Ordering pizzas?  |
 
 
-Sunday
--------
+Sunday May 22nd
+-----------------
 
 Note that specific timeslots are not fixed yet.
 
