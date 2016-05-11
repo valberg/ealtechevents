@@ -56,3 +56,7 @@ The bar will be open most of the time server beer and soft drinks, and coffee wi
 
 Bring your computer, sleeping gear and your own projects, if you have any. Snacks and food are optional but definitely a good idea.
 
+Media
+---------
+
+We have logos and posters [here]({{site.baseurl}}/media).
