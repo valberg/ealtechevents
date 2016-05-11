@@ -47,6 +47,7 @@ Note that specific timeslots are not fixed yet.
 
 | Time  | Comment |
 | ------------- | ------------- |
-| 11:00 -15:00  | Talks/workshops  |
+| 11:00 - 15:00  | Talks/workshops  |
 | 11:00 - 11:45  | [Provisioning (Jonas Pedersen)]({{site.baseurl}}/talks/#provisioning-jonas-pedersen)  |
+| 12:30 - 13:00  | [Password management basics (Victor Truica)]({{site.baseurl}}/talks/#password-management-basics-victor-truica) |
 

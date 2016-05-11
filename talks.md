@@ -31,6 +31,13 @@ If you are not familiar with the term "Cloud Computing", check out [this followi
 In this presentation I will cover all the steps you need to build your own private Cloud Computing system.
 Read more about OpenStack [here](https://www.openstack.org/software/)
 
+
+Password management basics (Victor Truica)
+---------------------------------------------
+
+A quick intro on how to properly manage your passwords, available solutions for doing that and an example setup.
+
+
 Provisioning (Jonas Pedersen)
 -------------------------------
 
@@ -48,5 +55,6 @@ Unity (Jakob Arndahl)
 ------------------------
 
 Details to be announced
+
 
 
