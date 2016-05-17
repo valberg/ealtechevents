@@ -15,10 +15,21 @@ Index of current talks and workshops:
 {:toc}
 
 
+Crypto party - lite
+------------------------
+
+A cryptoparty is a place where you'll learn about self-defence in a digital age. We will go through the basics of surveillance on networks and the internet in general, then we will go through the basics of self defense.
+
+To put it in another way, we are doing a fun evening of communication enlightenment and how to make it work for you.
+
+
+
 git 101 (Morten Nielsen)
 ------------------------
 
-Details to be announced
+I will do an introduction to version control in general, and we do a hands-on introduction to git after that.
+
+It will be about using git and github for your own benefit and to do collaboration with others.
 
 
 OpenStack Cloud Computing (Mehrdad Moshar)
