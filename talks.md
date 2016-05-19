@@ -15,6 +15,12 @@ Index of current talks and workshops:
 {:toc}
 
 
+Artificial Intelligence (Adam Czerwinski)
+--------------------------
+
+A quick guide of the artificial intelligence world, including a quick introduction and the key elements in AI algorithms.
+
+
 Crypto party - lite
 ------------------------
 
@@ -62,10 +68,10 @@ Software development is an art, and every artist have their workflow as well as 
 This talk is about 10 of the tools, framework and technologies, that have made a change for me, and makes my daily life as a software developer much better.
 
 
-Unity (Jakob Arndahl)
-------------------------
+Juice Your Life (Jakob Arndahl)
+--------------------------
 
-Details to be announced
+Have you ever wondered how to put som extra juice into your game? With some simple C# scripts you can make your games look so much more cool. Juice Your Life is a workshop about giving games that special awesome feel that is the hallmark of to-day's gaming industry. There will be drawn parallels to modern computer games and we will discuss what tricks the big guys use to make their games entertaining.
 
-
+The workshop will take about 1 - 1½ hour and will be made in Unity, which you should have installed on your computer upon participating.
 
