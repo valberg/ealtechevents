@@ -49,7 +49,9 @@ Note that specific timeslots are not fixed yet.
 | Time  | Comment |
 | ------------- | ------------- |
 | 11:00 - 15:00  | Talks/workshops  |
-| 11:00 - 11:45  | [Provisioning (Jonas Pedersen)]({{site.baseurl}}/talks/#provisioning-jonas-pedersen)  |
+| 11:00 - 11:45  | [What is Ovirt and Foreman? (Jonas Pedersen)]({{site.baseurl}}/talks/#what-is-ovirt-and-foreman?-jonas-pedersen)  |
 | 12:15 - 13:00  | [Git 101 (Morten Nielsen)]({{site.baseurl}}/talks/#git-101-morten-nielsen) | 
 | 13:15 - 13:45  | [Software development - tools to make your life easier (Steffen Mogensen)]({{site.baseurl}}/talks/#software-development---tools-to-make-your-life-easier-steffen-mogensen)  | 
+| 14:00 - 14:45  | [10 Gbit Firewalls (Jesper Petersen)]({{site.baseurl}}/talks/#gbit-firewalls-jesper-petersen) |
+
 

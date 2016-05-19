@@ -21,6 +21,14 @@ Artificial Intelligence (Adam Czerwinski)
 A quick guide of the artificial intelligence world, including a quick introduction and the key elements in AI algorithms.
 
 
+10 Gbit Firewalls (Jesper Petersen)
+------------------
+
+Choosing the OS, doing performance testing and monitoring.
+
+Building a network for 5000 people with a huge OSPF network.
+
+
 Crypto party - lite
 ------------------------
 
@@ -55,10 +63,11 @@ Password management basics (Victor Truica)
 A quick intro on how to properly manage your passwords, available solutions for doing that and an example setup.
 
 
-Provisioning (Jonas Pedersen)
+What is Ovirt and Foreman? (Jonas Pedersen)
 -------------------------------
 
-Details to be announced
+How to fast deploy servers for production or application tests on real live servers. Building servers with services with foreman, integrated into Ovirt.
+Will show and tell how to install ovirt and Foreman. How they work together with provisioning tool like puppet to manage configurations. 
 
 
 Software development - tools to make your life easier (Steffen Mogensen)
