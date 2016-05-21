@@ -36,6 +36,10 @@ A cryptoparty is a place where you'll learn about self-defence in a digital age.
 
 To put it in another way, we are doing a fun evening of communication enlightenment and how to make it work for you.
 
+Slides: 
+* [security and privacy.pdf](media/security and privacy.pdf)
+* [tools.pdf](/media/tools.pdf)
+
 
 
 git 101 (Morten Nielsen)
@@ -44,7 +48,6 @@ git 101 (Morten Nielsen)
 I will do an introduction to version control in general, and we do a hands-on introduction to git after that.
 
 It will be about using git and github for your own benefit and to do collaboration with others.
-
 
 OpenStack Cloud Computing (Mehrdad Moshar)
 -------------------------------------------
@@ -56,6 +59,8 @@ If you are not familiar with the term "Cloud Computing", check out [this followi
 In this presentation I will cover all the steps you need to build your own private Cloud Computing system.
 Read more about OpenStack [here](https://www.openstack.org/software/)
 
+Slides
+* [OpenStack.pdf](/media/OpenStack.pdf)
 
 Password management basics (Victor Truica)
 ---------------------------------------------
