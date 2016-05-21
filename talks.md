@@ -37,8 +37,8 @@ A cryptoparty is a place where you'll learn about self-defence in a digital age.
 To put it in another way, we are doing a fun evening of communication enlightenment and how to make it work for you.
 
 Slides: 
-* [security and privacy.pdf](media/security and privacy.pdf)
-* [tools.pdf](/media/tools.pdf)
+* [security and privacy.pdf]({{ site.baseurl }}/media/security and privacy.pdf)
+* [tools.pdf]({{ site.baseurl }}/media/tools.pdf)
 
 
 
@@ -59,8 +59,9 @@ If you are not familiar with the term "Cloud Computing", check out [this followi
 In this presentation I will cover all the steps you need to build your own private Cloud Computing system.
 Read more about OpenStack [here](https://www.openstack.org/software/)
 
-Slides
-* [OpenStack.pdf](/media/OpenStack.pdf)
+Slides:
+
+* [OpenStack.pdf]({{ site.baseurl }}/media/OpenStack.pdf)
 
 Password management basics (Victor Truica)
 ---------------------------------------------
