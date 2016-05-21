@@ -37,7 +37,9 @@ A cryptoparty is a place where you'll learn about self-defence in a digital age.
 To put it in another way, we are doing a fun evening of communication enlightenment and how to make it work for you.
 
 Slides: 
+
 * [security and privacy.pdf]({{ site.baseurl }}/media/security and privacy.pdf)
+
 * [tools.pdf]({{ site.baseurl }}/media/tools.pdf)
 
 
