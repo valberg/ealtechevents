@@ -39,7 +39,6 @@ To put it in another way, we are doing a fun evening of communication enlightenm
 Slides: 
 
 * [security and privacy.pdf]({{ site.baseurl }}/media/security and privacy.pdf)
-
 * [tools.pdf]({{ site.baseurl }}/media/tools.pdf)
 
 
@@ -64,6 +63,7 @@ Read more about OpenStack [here](https://www.openstack.org/software/)
 Slides:
 
 * [OpenStack.pdf]({{ site.baseurl }}/media/OpenStack.pdf)
+
 
 Password management basics (Victor Truica)
 ---------------------------------------------
