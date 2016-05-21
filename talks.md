@@ -70,6 +70,10 @@ Password management basics (Victor Truica)
 
 A quick intro on how to properly manage your passwords, available solutions for doing that and an example setup.
 
+Slides:
+
+* [eal-hackathon-pass-management-victor-truica.pdf]({{ site.baseurl }}/media/eal-hackathon-pass-management-victor-truica.pdf)
+
 
 What is Ovirt and Foreman? (Jonas Pedersen)
 -------------------------------
