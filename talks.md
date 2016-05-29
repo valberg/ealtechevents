@@ -20,6 +20,10 @@ Artificial Intelligence (Adam Czerwinski)
 
 A quick guide of the artificial intelligence world, including a quick introduction and the key elements in AI algorithms.
 
+Slides:
+
+* [Artificial Intelligence - talk.pdf]({{ site.baseurl }}/media/Artificial Intelligence - talk.pdf)
+
 
 10 Gbit Firewalls (Jesper Petersen)
 ------------------
