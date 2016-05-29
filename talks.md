@@ -54,6 +54,11 @@ I will do an introduction to version control in general, and we do a hands-on in
 
 It will be about using git and github for your own benefit and to do collaboration with others.
 
+Slides:
+
+* [Git_101 2016.pdf]({{ site.baseurl }}/media/Git_101 2016.pdf)
+
+
 OpenStack Cloud Computing (Mehrdad Moshar)
 -------------------------------------------
 
