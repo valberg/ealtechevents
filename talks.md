@@ -97,6 +97,10 @@ Software development - tools to make your life easier (Steffen Mogensen)
 Software development is an art, and every artist have their workflow as well as a set of tools that works for him/her. 
 This talk is about 10 of the tools, framework and technologies, that have made a change for me, and makes my daily life as a software developer much better.
 
+Slides:
+
+* [Prezi](https://prezi.com/tgojnlhjc4ji/10-things-that-make-my-life-easier/) 
+
 
 Juice Your Life (Jakob Arndahl)
 --------------------------
