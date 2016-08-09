@@ -9,8 +9,8 @@ description: "EAL tech events are events organised by the EAL tech event team. W
 facebook_grouplink: groups/243909452640594
 facebook_groupname: EAL Hackathon 2016
 
-url: https://moozer.github.io
-baseurl: /ealtechevents
+url: https://techevents.eal.dk
+baseurl: ""
 
 # Build settings
 markdown: kramdown
