@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Talks
-permalink: /talks/
+eventpath: hackathon_2016_may
 ---
 
 
@@ -22,7 +22,7 @@ A quick guide of the artificial intelligence world, including a quick introducti
 
 Slides:
 
-* [Artificial Intelligence - talk.pdf]({{ site.baseurl }}/media/Artificial Intelligence - talk.pdf)
+* [Artificial Intelligence - talk.pdf]({{ site.baseurl }}/media/{{ page.eventpath }}/Artificial Intelligence - talk.pdf)
 
 
 10 Gbit Firewalls (Jesper Petersen)
@@ -42,8 +42,8 @@ To put it in another way, we are doing a fun evening of communication enlightenm
 
 Slides: 
 
-* [security and privacy.pdf]({{ site.baseurl }}/media/security and privacy.pdf)
-* [tools.pdf]({{ site.baseurl }}/media/tools.pdf)
+* [security and privacy.pdf]({{ site.baseurl }}/media/{{ page.eventpath }}/security and privacy.pdf)
+* [tools.pdf]({{ site.baseurl }}/media/{{ page.eventpath }}/tools.pdf)
 
 
 
@@ -56,7 +56,7 @@ It will be about using git and github for your own benefit and to do collaborati
 
 Slides:
 
-* [Git_101 2016.pdf]({{ site.baseurl }}/media/Git_101 2016.pdf)
+* [Git_101 2016.pdf]({{ site.baseurl }}/media/{{ page.eventpath }}/Git_101 2016.pdf)
 
 
 OpenStack Cloud Computing (Mehrdad Moshar)
@@ -71,7 +71,7 @@ Read more about OpenStack [here](https://www.openstack.org/software/)
 
 Slides:
 
-* [OpenStack.pdf]({{ site.baseurl }}/media/OpenStack.pdf)
+* [OpenStack.pdf]({{ site.baseurl }}/media/{{ page.eventpath }}/OpenStack.pdf)
 
 
 Password management basics (Victor Truica)
@@ -81,7 +81,7 @@ A quick intro on how to properly manage your passwords, available solutions for 
 
 Slides:
 
-* [eal-hackathon-pass-management-victor-truica.pdf]({{ site.baseurl }}/media/eal-hackathon-pass-management-victor-truica.pdf)
+* [eal-hackathon-pass-management-victor-truica.pdf]({{ site.baseurl }}/media/{{ page.eventpath }}/eal-hackathon-pass-management-victor-truica.pdf)
 
 
 What is Ovirt and Foreman? (Jonas Pedersen)

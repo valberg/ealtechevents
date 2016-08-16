@@ -7,7 +7,7 @@ Welcome to the site. Here we collect the information related to EAL hackathon.
 
 The event is now over, and we think it was a great success.
 
-* Most slides have been uploaded. Go to the [talks](talks/) page for links.
+* Most slides have been uploaded. Go to the [talks](talks.html) page for links.
 * We will do it again (probably) 16-18 October 2016 - more to come on that later.
 
 
@@ -36,7 +36,7 @@ Who should come?
 I want to come, now what?
 -----------------------------
 
-Go to the registration page to [sign up](about/)
+Go to the registration page to [sign up](about.html)
 
 Bootnotes
 --------------
