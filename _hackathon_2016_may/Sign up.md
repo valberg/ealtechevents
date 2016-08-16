@@ -12,7 +12,7 @@ Time
 
 Start Friday May 20th at 18:00 and we continue to Sunday in the afternoon.
 
-For the schedule go [here]({{site.baseurl}}/schedule)
+For the schedule go [here]({schedule.html)
 
 
 Venue
@@ -59,4 +59,4 @@ Bring your computer, sleeping gear and your own projects, if you have any. Snack
 Media
 ---------
 
-We have logos and posters [here]({{site.baseurl}}/media).
+We have logos and posters [here](media.html).

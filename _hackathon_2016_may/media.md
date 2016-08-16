@@ -15,6 +15,6 @@ Logo
 Poster
 -------
 
-![Poster]({{site.baseurl}}/media/poster1.jpg)
+![Poster]({{site.baseurl}}/media/hackathon_2016_may/poster1.jpg)
 
-It is available as [A3 pdf]({{site.baseurl}}/media/poster1.pdf) also.
+It is available as [A3 pdf]({{site.baseurl}}/media/hackathon_2016_may/poster1.pdf) also.

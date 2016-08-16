@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule/
 ---
 
 We are currently working on getting talks and workshops planned, so expect these tables to be updated.
@@ -22,7 +21,7 @@ Friday May 20th
 | ------------- | ------------- |
 | 18:00  | Official start  |
 | 19:00  | Ordering pizzas?  |
-| 19:30 - 22:00  | [Crypto party]({{site.baseurl}}/talks/#crypto-party---lite)  |
+| 19:30 - 22:00  | [Crypto party](talks.html#crypto-party---lite)  |
 
 
 
@@ -34,11 +33,11 @@ Note that specific timeslots are not fixed yet.
 | Time  | Comment |
 | ------------- | ------------- |
 | 11:00 - 15:00  | Talks/workshops  |
-| 11:00 - 11:45  | [OpenStack Cloud Computing (Mehrdad Moshar)]({{site.baseurl}}/talks/#openstack-cloud-computing-mehrdad-moshar)  |
-| 12:15 - 12:45  | [Password management basics (Victor Truica)]({{site.baseurl}}/talks/#password-management-basics-victor-truica) |
-| 13:00 - 13:45  | [Artificial Intelligence (Adam Czerwinski)]({{site.baseurl}}/talks/#artificial-intelligence-adam-czerwinski) |
-| 14:00 - 14:45  | [Git 101 (Morten Nielsen)]({{site.baseurl}}/talks/#git-101-morten-nielsen) | 
-| 15:00 - 16:30  | [Juice Your Life (Jakob Arndahl)]({{site.baseurl}}/talks/#juice-your-life-jakob-arndahl) | 
+| 11:00 - 11:45  | [OpenStack Cloud Computing (Mehrdad Moshar)](talks.html#openstack-cloud-computing-mehrdad-moshar)  |
+| 12:15 - 12:45  | [Password management basics (Victor Truica)](talks.html#password-management-basics-victor-truica) |
+| 13:00 - 13:45  | [Artificial Intelligence (Adam Czerwinski)](talks.html#artificial-intelligence-adam-czerwinski) |
+| 14:00 - 14:45  | [Git 101 (Morten Nielsen)](talks.html#git-101-morten-nielsen) | 
+| 15:00 - 16:30  | [Juice Your Life (Jakob Arndahl)](talks.html#juice-your-life-jakob-arndahl) | 
 | 19:00  | Ordering pizzas?  |
 
 
@@ -50,8 +49,8 @@ Note that specific timeslots are not fixed yet.
 | Time  | Comment |
 | ------------- | ------------- |
 | 11:00 - 15:00  | Talks/workshops  |
-| 11:00 - 12:30  | [What is Ovirt and Foreman? (Jonas Pedersen)]({{site.baseurl}}/talks/#what-is-ovirt-and-foreman?-jonas-pedersen)  |
-| 13:00 - 13:45  | [Software development - tools to make your life easier (Steffen Mogensen)]({{site.baseurl}}/talks/#software-development---tools-to-make-your-life-easier-steffen-mogensen)  | 
-| 14:00 - 14:45  | [10 Gbit Firewalls (Jesper Petersen)]({{site.baseurl}}/talks/#gbit-firewalls-jesper-petersen) |
+| 11:00 - 12:30  | [What is Ovirt and Foreman? (Jonas Pedersen)](talks.html#what-is-ovirt-and-foreman?-jonas-pedersen)  |
+| 13:00 - 13:45  | [Software development - tools to make your life easier (Steffen Mogensen)](talks.html#software-development---tools-to-make-your-life-easier-steffen-mogensen)  | 
+| 14:00 - 14:45  | [10 Gbit Firewalls (Jesper Petersen)](talks.html#gbit-firewalls-jesper-petersen) |
 
 
