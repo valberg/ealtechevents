@@ -26,3 +26,7 @@ Past events
 * [Hackathon 20-22/5](hackathon_2016_may)
  
 
+{% for c in site.collections %}
+{{c}}
+
+{% endfor %}
