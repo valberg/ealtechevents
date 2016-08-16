@@ -16,7 +16,6 @@ baseurl: ""
 markdown: kramdown
 permalink: pretty
 
-
 collections:
   hackathon_2016_oct:
     output: true
