@@ -35,7 +35,7 @@ Who should come?
 I want to come, now what?
 -----------------------------
 
-Go to the registration page to [sign up]({{site.baseurl}}/{{page.eventpath}}/Sign up/)
+Go to the registration page to [sign up]({{site.baseurl}}/{{page.eventpath}}/sign_up.html)
 
 
 Bootnotes

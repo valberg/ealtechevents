@@ -12,7 +12,7 @@ Time
 
 Start Friday May 20th at 18:00 and we continue to Sunday in the afternoon.
 
-For the schedule go [here]({{site.baseurl}}/{{page.eventpath}}/schedule)
+For the schedule go [here]({{ site.baseurl }}/{{ page.eventpath }}/schedule.html)
 
 
 Venue
@@ -55,7 +55,8 @@ Food and accomodation
 
 We are currently looking into this, and will be back with more information later.
 
+
 Media
 ---------
 
-We have logos and posters [here]({{site.baseurl}}/media).
+We have logos and posters [here]({{ site.baseurl }}/media).
