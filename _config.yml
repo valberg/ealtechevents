@@ -15,3 +15,11 @@ baseurl: ""
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+collections:
+ gamejam_2016_sep: 
+   output: true
+ hackathon_2016_oct:
+ techtalks_2016_sep:
+  

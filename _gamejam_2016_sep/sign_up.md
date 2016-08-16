@@ -58,4 +58,4 @@ We are currently looking into this, and will be back with more information later
 Media
 ---------
 
-We have logos and posters [here]({{site.baseurl}}/{{page.eventpath}}/media).
+We have logos and posters [here]({{site.baseurl}}/media).
