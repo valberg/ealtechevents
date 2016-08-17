@@ -1,6 +1,7 @@
 ---
 layout: page
 eventpath: gamejam_2016_sep
+title: Introduction
 ---
 
 
