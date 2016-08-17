@@ -16,13 +16,16 @@ baseurl: ""
 markdown: kramdown
 permalink: pretty
 
-
 collections:
   hackathon_2016_oct:
     output: true
+    permalink: /:collection/:title.html
   techtalks_2016_sep:
     output: true
+    permalink: /:collection/:title.html
   gamejam_2016_sep: 
     output: true
+    permalink: /:collection/:title.html
   hackathon_2016_may:
     output: true
+    permalink: /:collection/:title.html

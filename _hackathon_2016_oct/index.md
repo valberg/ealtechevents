@@ -1,6 +1,7 @@
 ---
 layout: page
 eventpath: hackathon_2016_oct
+title: Introduction
 ---
 
 

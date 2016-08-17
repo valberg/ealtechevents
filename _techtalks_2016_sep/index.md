@@ -1,6 +1,7 @@
 ---
 layout: page
 eventpath: techtalks_2016_sep
+title: Introduction
 ---
 
 
