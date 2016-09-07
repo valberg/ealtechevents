@@ -26,3 +26,5 @@ Past events
 * [Hackathon - May 20-22](hackathon_2016_may)
  
 
+Media files are located [here](media)
+
