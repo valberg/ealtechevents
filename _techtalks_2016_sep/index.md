@@ -25,23 +25,23 @@ The talks are held by anybody with a passion for a specific subject and willing 
 After the talks, the tools presenters will be available for questions and hand-on support, if needed.
 
 
-Which topics is scheduled?
+Which topics are scheduled?
 ----------------------------
 
-See the [talks page]([sign up]({talks.html))
+See the [talks page](talks.html)
 
 
 
 Who should come?
 --------------------
 
-Out aim is that the talks will relevant to anyone working with technology and to any one with an interest in technology.
+Our aim is that the talks will relevant to anyone working with technology and to any one with an interest in technology.
 
 
 I want to come, now what?
 -----------------------------
 
-Go to the registration page to [sign up]({sign_up.html)
+Go to the registration page to [sign up](sign_up.html)
 
 
 Bootnotes
