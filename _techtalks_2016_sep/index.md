@@ -28,7 +28,7 @@ After the talks, the tools presenters will be available for questions and hand-o
 Which topics is scheduled?
 ----------------------------
 
-See the [talks page]([sign up]({talks.html))
+See the [talks page](talks.html)
 
 
 
@@ -41,7 +41,7 @@ Out aim is that the talks will relevant to anyone working with technology and to
 I want to come, now what?
 -----------------------------
 
-Go to the registration page to [sign up]({sign_up.html)
+Go to the registration page to [sign up](sign_up.html)
 
 
 Bootnotes
