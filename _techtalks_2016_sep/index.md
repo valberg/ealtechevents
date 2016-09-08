@@ -6,13 +6,19 @@ title: Introduction
 
 
 Tech talks - September 29th
---------------------------------- 
+----------------------------
+
+This is the first edition of our recurrent tech talks. Please join us, and make the event memorable.
+
+
+See the [talks page](talks.html) for the topics are scheduled
+
 
 What are tech talks?
 --------------------
 
 A EAL Tech-Talk is a evening consisting of 4-5 talks about variouse topics. A topic can either be
-a generel, technical or a specific tool talk.
+a generel, technical or a specific tool talk. They are scheduled for the last Thursday of the month
 
 The talks are held by anybody with a passion for a specific subject and willing to give a talk. After the talks there will be a workshop where you are able to work with some of the tools or technical aspects presented during the talks
 
@@ -23,13 +29,6 @@ The talks are held by anybody with a passion for a specific subject and willing 
 * Tool talks are talks about specific tools or software, that is useful any technical person and others. These are intended to give the audience an impression of how easy it is get startet with the specific tool and how it could benefit them. 
 
 After the talks, the tools presenters will be available for questions and hand-on support, if needed.
-
-
-Which topics are scheduled?
-----------------------------
-
-See the [talks page](talks.html)
-
 
 
 Who should come?
