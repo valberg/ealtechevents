@@ -20,7 +20,7 @@ Thursday September 29th
 
 | Time  | Comment |
 | ------------- | ------------- |
-| 16:30 | Expo of prototypes created |
+| 16:30 | Welcome and introductions |
 | 16:40 | IT and ethics (Lise Agerbæk) |
 | 17:15 | Artificial Intelligence (Adam Czerwinski) |
 | 17:50 | The anatomy of a website (Erik Weber-Lauridsen) |
