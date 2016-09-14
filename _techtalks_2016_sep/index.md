@@ -5,8 +5,8 @@ title: Introduction
 ---
 
 
-Tech talks - September 29th
-----------------------------
+Tech talks - September 29th at 16:30
+------------------------------------
 
 This is the first edition of our recurrent tech talks. Please join us, and make the event memorable.
 
