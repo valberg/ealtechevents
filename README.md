@@ -12,7 +12,7 @@ To use
 1. [Fork it](https://help.github.com/articles/fork-a-repo/)
 2. [Clone it](https://git-scm.com/docs/git-clone)
 3. [Install jekyll](https://jekyllrb.com/docs/installation/)
-4. cd hackathon2016
+4. cd ealtechevents
 5. run *jekyll serve*
 6. go to [http://localhost:4000](http://localhost:4000) to see the result
 
