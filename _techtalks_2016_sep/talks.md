@@ -45,7 +45,9 @@ Description to come
 The anatomy of a website (Erik Weber-Lauridsen)
 -------------------------
 
-Description to come
+We all use the web, and many of us have heard of something called HTML, but how a modern website actually built? How does the design choices reflect in the code? Are the structure and design today different than 15 years ago? Where are websites going?
+
+The talk will be about how a modern website is built, the most used languages will be introduced and different design trends will be examined.
 
 
 Virtualisation with Virtualbox (Ruben Sternke)
@@ -54,7 +56,9 @@ Virtualisation with Virtualbox (Ruben Sternke)
 Description to come
 
 
-Introducing Linux (Jonas Holm)
+Why Linux? (Jonas Holm)
 ---------------------------------
 
-Description to come
+Linux has become an ever expanding operating system, used in almost every IT system today. But what makes Linux such a powerful tool and operating system? Why choose Linux instead of e.g. Windows? How to get started with Linux…? Find out by attending the Tech Talk followed by a workshop about Linux usage!
+
+ 
