@@ -26,7 +26,7 @@ The event is at
 >
 >  5000 Odense C
 
-Room number will be announced later.
+We meet in room B2.48
 
 See on [google maps](https://www.google.dk/maps/place/Seebladsgade+1,+5000+Odense/@55.403458,10.3771453,17z/data=!3m1!4b1!4m5!3m4!1s0x464cdffce26d61f5:0xb3c45d391e70236f!8m2!3d55.403458!4d10.379334)
 
