@@ -31,13 +31,16 @@ Schedule for Thursday September 29th
 IT and ethics (Lise Agerbæk)
 ------------------------------
 
-Description to come
+The Dutch philosopher Peter Paul Verbeek has written a book about how the “things” we surround ourselves with, change the conditions of our understanding and our possibilities for actions. “Things” are in his understanding anything from a table to a tablet, from a door to a device.
 
+The design of “things” enable some experiences, but they also prevent others. This has ethical consequences for human beings as well as furthering/hindering the acquisition of knowledge. And it has impact on what designers should think about when they bring things into the world.
 
-Artificial Intelligence (Adam Czerwinski)
+Artificial Intelligence in a nutshell and beyond… (Adam Czerwinski)
 --------------------------
 
-Description to come
+Have you ever heard the words artificial intelligence and wondered what they mean and how it all works? Or are you just curious about how the future could look?
+
+Then join this Tech Talk as we will cover the basic concepts of AI, how and where it is used in our everyday life and how AI has become such a field of interest over the last years.  
 
 The anatomy of a website (Erik Weber-Lauridsen)
 -------------------------
