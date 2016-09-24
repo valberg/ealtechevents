@@ -53,7 +53,24 @@ The talk will be about how a modern website is built, the most used languages wi
 Virtualisation with Virtualbox (Ruben Sternke)
 -----------------------------
 
-Description to come
+Do you want to try a new operating system, but don't have the extra computer hardware it may require? 
+
+How about a trip down memory lane, by playing one of Your old 90's PC game - but unfortunately the game can't be played directly on your new fancy Windows 10 machine with gigs of memory and lots of GHz?
+
+Do you visit web pages you don't trust due to viruses and other nasty things - and are a little afraid of getting your laptop infected or even hacked?
+
+This talk will introduce You to virtualization by using the free and open source project called VirtualBox. During the talk will you be introduced to: 
+
+* How and when to use virtualization.
+* How easy it is to setup and install a new operating system in VirtualBox. 
+* How easy it is to run different operating systems simultaneously on a Windows 7 laptop. 
+* How easy it is to make snapshots of a running operating system - which is useful if the system gets infected by viruses or hacks. 
+* How to interact with an installed virtual operating system from the host PC.
+
+There will be hands-on help for installing and configuring VirtualBox after the talks.
+
+
+
 
 
 Why Linux? (Jonas Holm)
