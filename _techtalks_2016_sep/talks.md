@@ -78,4 +78,7 @@ Why Linux? (Jonas Holm)
 
 Linux has become an ever expanding operating system, used in almost every IT system today. But what makes Linux such a powerful tool and operating system? Why choose Linux instead of e.g. Windows? How to get started with Linux…? Find out by attending the Tech Talk followed by a workshop about Linux usage!
 
- 
+To be used for the workshop:
+
+* a telnet/SSH client, e.g [putty](http://www.putty.org/) or similar
+* for exercises: http://overthewire.org/wargames/bandit/
