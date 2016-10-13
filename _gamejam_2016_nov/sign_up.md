@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About/Sign up
-eventpath: gamejam_2016_sep
+eventpath: gamejam_2016_nov
 ---
 
 * TOC
@@ -10,15 +10,13 @@ eventpath: gamejam_2016_sep
 Time
 ------------
 
-Start Friday May 20th at 18:00 and we continue to Sunday in the afternoon.
-
 For the schedule go [here]({{ site.baseurl }}/{{ page.eventpath }}/schedule.html)
 
 
 Venue
 ----------
 
-The event is at 
+The event is at
 
 >  EAL
 >
@@ -30,10 +28,11 @@ We meet in room B2.48
 
 See on [google maps](https://www.google.dk/maps/place/Seebladsgade+1,+5000+Odense/@55.403458,10.3771453,17z/data=!3m1!4b1!4m5!3m4!1s0x464cdffce26d61f5:0xb3c45d391e70236f!8m2!3d55.403458!4d10.379334)
 
-This is the new campus of EAL. Yes we like it.
+This is the new campus of EAL.
 
 The door will be open in the daytime, and students will have all-time access using their tokens or student cards. We will arrange for a phone number to call, if the door is locked.
 
+Please note that the windows must be kept closed throughout the weeked. This is an alarm thing, and the guards don't like to be called unneccesarily.
 
 To registrer
 ---------------
@@ -53,8 +52,7 @@ The train station is a [9 minute walk](https://www.google.dk/maps/dir/Odense+St.
 Food and accomodation
 ---------------------
 
-We are currently looking into this, and will be back with more information later.
-
+There are supermarket in the vicinity, and vending machines for coffe.
 
 Media
 ---------
