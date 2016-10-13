@@ -12,8 +12,7 @@ Friday October 27th
 
 | Time  | Comment |
 | ------------- | ------------- |
-| 17:00 | We open |
-| 17:30  | Ordering pizzas  |
+| 17:30 | We open and orders pizzas  |
 | 18:00  | Official start with pitches  |
 
 
@@ -30,5 +29,3 @@ Sunday October 29th
 | Time  | Comment |
 | ------------- | ------------- |
 | 14:00 -  | Expo of prototypes created |
-
-
