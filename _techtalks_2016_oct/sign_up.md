@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About/Sign up
-eventpath: techtalks_2016_sep
+eventpath: techtalks_2016_oct
 ---
 
 * TOC
@@ -9,8 +9,6 @@ eventpath: techtalks_2016_sep
 
 Time
 ------------
-
-Thursday September 29th at 16:30
 
 For the talks go [here](talks.html)
 
@@ -30,7 +28,7 @@ In the auditorium
 
 See on [google maps](https://www.google.dk/maps/place/Seebladsgade+1,+5000+Odense/@55.403458,10.3771453,17z/data=!3m1!4b1!4m5!3m4!1s0x464cdffce26d61f5:0xb3c45d391e70236f!8m2!3d55.403458!4d10.379334)
 
-This is the new campus of EAL. Yes, we like it.
+This is the new campus of EAL.
 
 
 To registrer
