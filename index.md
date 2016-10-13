@@ -18,7 +18,7 @@ What is scheduled?
 
 * [Tech talks - October 26](techtalks_2016_oct)
 * [Hackathon - October 27-29](hackathon_2016_oct)
-* [Tech talks - September 29](techtalks_2016_nov)
+* [Tech talks - November 24](techtalks_2016_nov)
 * [Gamejam - November](gamejam_2016_nov)
 
 Past events
