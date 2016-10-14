@@ -34,6 +34,12 @@ GameJamming in the morning
 
 | Time  | Comment |
 | ------------- | ------------- |
-| 12:00 | Expo, show and tell.<br />Competition entries: Each group has 10 minutes to show their games and give a short presentation. <br />After the final games has been shown Voting will commence.<br />Each participant gets 1 vote, you cannot vote on your own game. |
+| 12:00 | Expo, show & tell and voting (see below) |
 | 13.00-ish and onwards | Cleaning and Chillaxing |
 | 16.00 | Game jam officially ends |
+
+Competition rules
+
+* Each group has 10 minutes to show their games and give a short presentation.
+* After the final games has been shown Voting will commence.
+* The voting process is for each participant to rank three games: the first gets 3 points, the second two points and one point for honourable mention
