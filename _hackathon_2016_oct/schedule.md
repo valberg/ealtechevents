@@ -7,7 +7,7 @@ eventpath: hackathon_2016_oct
 
 Planned events so far
 
-Friday October 27th
+Friday October 28th
 ------------------
 
 | Time  | Comment |
@@ -16,13 +16,13 @@ Friday October 27th
 | 18:00  | Official start with pitches  |
 
 
-Saturday October 28th
+Saturday October 29th
 --------------------
 
 Nothing specific planned except continued work on the games
 
 
-Sunday October 29th
+Sunday October 30th
 -----------------
 
 

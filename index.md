@@ -16,8 +16,8 @@ and others work and play with technology.
 What is scheduled?
 ---------------------
 
-* [Tech talks - October 26](techtalks_2016_oct)
-* [Hackathon - October 27-29](hackathon_2016_oct)
+* [Tech talks - October 27](techtalks_2016_oct)
+* [Hackathon - October 28-30](hackathon_2016_oct)
 * [Tech talks - November 24](techtalks_2016_nov)
 * [Gamejam - November](gamejam_2016_nov)
 

@@ -5,7 +5,7 @@ title: Introduction
 ---
 
 
-Tech talks - October 26th at 16:30
+Tech talks - October 27th at 16:30
 ------------------------------------
 
 See the [talks page](talks.html) for the topics are scheduled

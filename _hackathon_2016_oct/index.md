@@ -5,7 +5,7 @@ title: Introduction
 ---
 
 
-Hackathon - October 27th-29th 2016
+Hackathon - October 28th-30th 2016
 ---------------------------------
 
 This is the page where we will collect relevant information related to the hackathon.
