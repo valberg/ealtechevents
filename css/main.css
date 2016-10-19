@@ -142,13 +142,11 @@ a:visited { color: #205caa; }
 .page-content {
   padding: 30px 0;
   background-color: #fff;
-  overflow: auto;
 }
 
 .event {
   width: 200px;
   height: 200px;
-  padding: 50px; !important
   float: left;
   background-color: #99b3bc;
 }
