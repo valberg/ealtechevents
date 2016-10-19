@@ -156,6 +156,9 @@ a:visited { color: #205caa; }
   margin: 10px;
   float: left;
   background-color: #99b3bc;
+  background-image: url("../media/button.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /* Home styles */
