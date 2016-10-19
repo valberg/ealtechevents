@@ -24,7 +24,7 @@ a:visited { color: #205caa; }
 
 /* Utility */
 
-.wrap:before { color: #006e79; }
+.wrap:before { background-color: #006e79; }
 .wrap:before,
 .wrap:after { content:""; display:table; }
 .wrap:after { clear: both; }
