@@ -144,9 +144,14 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
-.events  {
+.events {
   width: 100%;
   float: left;
+  color: #fff;
+}
+
+.events a {
+  color: #fff;
 }
 
 .event {
