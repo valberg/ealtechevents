@@ -144,6 +144,17 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
+.event {
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+  float: left;
+  background-color: #99b3bc;
+}
+
+.event hover {
+  padding: 0; !important
+}
 
 /* Home styles */
 /* ----------------------------------------------------------*/
@@ -188,7 +199,6 @@ a:visited { color: #205caa; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
 
 .post-content h1,
 .post-content h2,
