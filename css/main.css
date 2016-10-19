@@ -144,16 +144,16 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
+.events  {
+  width: 100%;
+  float: left;
+}
+
 .event {
   width: 250px;
   height: 250px;
   padding: 10px;
-  float: left;
   background-color: #99b3bc;
-}
-
-.event hover {
-  padding: 0; !important
 }
 
 /* Home styles */
