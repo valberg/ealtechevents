@@ -145,13 +145,13 @@ a:visited { color: #205caa; }
 }
 
 .events  {
-  width: 100%;
-  float: left;
+  display: flex;
+  justify-content: space-between;
 }
 
 .event {
-  width: 235px;
-  height: 235px;
+  width: 230px;
+  height: 230px;
   padding: 10px;
   margin: 10px;
   float: left;
