@@ -148,8 +148,11 @@ a:visited { color: #205caa; }
   width: 300px;
   height: 300px;
   float: left;
-  background-color: #006e79;
-  color: #fff;
+  background-color: #99b3bc;
+}
+
+.event:first-child {
+  background-color: #f6aa44;
 }
 
 /* Home styles */
