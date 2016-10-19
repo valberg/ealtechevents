@@ -41,10 +41,10 @@ a:visited { color: #205caa; }
 
 /* Site header */
 
-#eal-logo { float:left; padding: 0 10 0 0; }
+#eal-logo { float:left; padding: 0 10px 0 0; }
 #techevent-logo { float:right; right: 0; }
 
-.site-title { color: #006e79; }
+.site-title { color: #006e79; } !important
 .site-header {
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
