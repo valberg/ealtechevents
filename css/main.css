@@ -147,7 +147,7 @@ a:visited { color: #205caa; }
 .event {
   width: 300px;
   height: 300px;
-  margin: 0 100px 0 0;
+  padding: 50px;
   float: left;
   background-color: #99b3bc;
 }
