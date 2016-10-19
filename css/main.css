@@ -165,6 +165,7 @@ a:visited { color: #205caa; }
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 25px;
+  font-size: 1.5em;
 }
 
 /* Home styles */
