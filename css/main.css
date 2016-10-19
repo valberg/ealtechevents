@@ -144,7 +144,7 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
-.event { width: 320px; height: 320px; background-color: #006e79; }
+.event { width: 320px; height: 320px; float: left; background-color: #006e79; }
 
 /* Home styles */
 /* ----------------------------------------------------------*/
