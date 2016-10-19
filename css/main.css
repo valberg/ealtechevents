@@ -42,7 +42,7 @@ a:visited { color: #205caa; }
 /* Site header */
 
 #eal-logo { float:left; }
-#techevent-logo { float:right; }
+#techevent-logo { float:right; align: right; right: 0; }
 
 .site-title { color: #006e79; }
 .site-header {
