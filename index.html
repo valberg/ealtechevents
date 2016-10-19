@@ -20,7 +20,7 @@ Welcome to the site. Here we collect the information related to EAL tech events
 Tech events at EAL is part of our efforts to create an environment at EAL, where students, staff
 and others work and play with technology.
 
-
+<div class="events">
 <h2>What is scheduled?</h2>
 
 {% for ev in page.current_events %}
@@ -29,7 +29,9 @@ and others work and play with technology.
   <a href="{{ ev }}">{{ event.title }}</a>
 </div>
 {% endfor %}
+</div>
 
+<div class="events">
 <h2>Past events</h2>
 
 {% for ev in page.past_events %}
@@ -38,5 +40,6 @@ and others work and play with technology.
   <a href="{{ ev }}">{{ event.title }}</a>
 </div>
 {% endfor %}
+</div>
 
 Media files are located <a href="media">here</a>
