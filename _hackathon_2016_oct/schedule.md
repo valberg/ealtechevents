@@ -32,7 +32,8 @@ Sunday October 30th
 
 
 Proposed projects
-============
+====================
+
 
 DIY Wearable Pollution Detector (Steffen Mogensen)
 ---------------------------------------------------
