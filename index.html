@@ -1,5 +1,14 @@
 ---
 layout: page
+current_events:
+- techtalks_2016_oct
+- hackathon_2016_oct
+- gamejam_2016_nov
+- techtalks_2016_nov
+past_events:
+- hackathon_2016_may
+- gamejam_2016_sep
+- techtalks_2016_sep
 ---
 
 
@@ -14,32 +23,20 @@ and others work and play with technology.
 
 <h2>What is scheduled?</h2>
 
+{% for ev in page.current_events %}
 <div class="event">
-  <a href="techtalks_2016_oct">Tech talks - October 27</a>
+  {% assign event = site.collections | where: "label", {{ev}} | first %}
+  <a href="{{ ev }}">{{ event.title }}</a>
 </div>
-
-<div class="event">
-  <a href="hackathon_2016_oct">Hackathon - October 28-30</a>
-</div>
-
-<div class="event">
-  <a href="gamejam_2016_nov">Gamejam - November 11-13</a>
-</div>
-
-<div class="event">
-  <a href="techtalks_2016_nov">Tech talks - November 24</a>
-</div>
-
-* [Tech talks - October 27](techtalks_2016_oct)
-* [Hackathon - October 28-30](hackathon_2016_oct)
-* [Gamejam - November 11-13](gamejam_2016_nov)
-* [Tech talks - November 24](techtalks_2016_nov)
+{% endfor %}
 
 <h2>Past events</h2>
 
-* [Hackathon - May 20-22](hackathon_2016_may)
-* [Gamejam - September 16-18](gamejam_2016_sep)
-* [Tech talks - September 29](techtalks_2016_sep)
+{% for ev in page.past_events %}
+<div class="event">
+  {% assign event = site.collections | where: "label", {{ev}} | first %}
+  <a href="{{ ev }}">{{ event.title }}</a>
+</div>
+{% endfor %}
 
-
-Media files are located [here](media)
+Media files are located <a href="media">here</a>
