@@ -145,7 +145,8 @@ a:visited { color: #205caa; }
 }
 
 .events  {
-  display: flex;
+  width: 100%;
+  float: left;
   justify-content: space-between;
 }
 
