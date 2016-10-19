@@ -147,7 +147,6 @@ a:visited { color: #205caa; }
 .events {
   width: 100%;
   float: left;
-  color: #fff;
 }
 
 .events a {
@@ -161,7 +160,7 @@ a:visited { color: #205caa; }
   margin: 10px;
   float: left;
   background-color: #99b3bc;
-  background-image: url("../media/button.png");
+  background-image: url("../media/button1.png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 25px;
