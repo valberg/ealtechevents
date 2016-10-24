@@ -12,7 +12,7 @@ eventpath: techtalks_2016_oct
 We do not publish presenters email adresses, so any questions to the presenters should be directed to [the organisers](mailto:{{ site.email }}) and we will forward your questions.
 
 
-Schedule for Thursday October 26th 
+Schedule for Thursday October 27th 
 
 
 | Time  | Comment |
