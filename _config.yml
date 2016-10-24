@@ -24,7 +24,7 @@ collections:
   gamejam_2016_nov:
     output: true
     permalink: /:collection/:title.html
-    title: Gamejam - November 11-13 
+    title: Gamejam - November 18-20 
   hackathon_2016_oct:
     output: true
     permalink: /:collection/:title.html
