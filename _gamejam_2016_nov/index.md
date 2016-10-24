@@ -5,7 +5,7 @@ title: Introduction
 ---
 
 
-Gamejam - November 11-13
+Gamejam - November 18-20
 ---------------------------------
 
 This is the page where we will collect relevant information related to the gamejam.
