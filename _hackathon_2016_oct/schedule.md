@@ -49,3 +49,22 @@ The project will probably include some of the follwoing
   * Java/Android programming
   * 3D print of cabinet
   * optionally developping a RESTful service.
+  
+  
+
+IoT router (Morten Bo Nielsen)
+-----------------------------
+
+Normally iot device (and all other networked devices) have unlimited acces to the internet from a home network.
+These devices are known to be generally insecure, and we usually don't know what they are doing.
+
+In this project we will create an iot subnet - maybe wireless, maybe using virtual machines - to monitor and to allow/deny certain trafic to and from these devices.
+Whenever a device does somethin new, a message is send to a smart phone
+
+We will be using
+* virtual machines
+* python (?) scripting
+* iptables
+* android programming
+* some network protocol, perhaps a RESTfull API over HTTP(S?)
+* some homepage (html/css) and graphics
