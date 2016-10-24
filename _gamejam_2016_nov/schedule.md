@@ -9,7 +9,7 @@ Planned events so far
 
 Date to be announced.
 
-Friday November 11
+Friday November 18
 ------------------
 
 | Time  | Comment |
@@ -18,7 +18,7 @@ Friday November 11
 | 17.30 | Revelation of topic and final groupings |
 | 18:00 | GameJam Commences! |
 
-Saturday November 12
+Saturday November 19
 --------------------
 
 GameJamming all day
@@ -27,7 +27,7 @@ GameJamming all day
 | ------------- | ------------- |
 | 10.00 - 11.00 | Breakfast for those who wants to socialize. (Bring your own) |
 
-Sunday November 13
+Sunday November 20
 -----------------
 
 GameJamming in the morning
