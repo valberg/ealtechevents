@@ -21,7 +21,7 @@ Schedule for Thursday October 27th
 | 16:40 | Daxiomatic is bringing AI to ERP (Niels Kodal) |
 | 17:15 | The methods of Artificial Intelligence (Adam Czerwinski) |
 | 17:50 | Communication as a Profesional (Simon Glashoff) |
-| 18:25 | Open source and github (Morten Bo Nielsen) |
+| 18:25 | Let's collaborate - a pitch for everyone to use github (Morten Bo Nielsen) |
 | 19:00 | Coding across the platforms with Xamarin (Benjamin Lærkegaard) |
 | 19:35 | Hands-on and informal networking |
 
@@ -48,10 +48,13 @@ Communication as a Profesional (Simon Glashoff)
 This talk will introduce why communication is important, while we will focus on how to think about communication as a professional on an abstract level. We will look at examples throughout the talk to give contexts and real life examples of how communication is either supporting a project goal or ruining the project all together.
 
 
-Open source and github (Morten Bo Nielsen)
+Let's collaborate - a pitch for everyone to use github (Morten Bo Nielsen)
 ----------------------------------------------
 
-Details TBA
+Version control is the way to go, and using a collaborative platform like github is even better.
+
+I will try to convince you to use github if you are a programmer, and at least consider it if you are everbody else.
+
 
 Coding across the platforms with Xamarin (Benjamin Lærkegaard)
 --------------------------------------------
