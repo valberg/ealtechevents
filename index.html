@@ -26,7 +26,18 @@ and others work and play with technology.
 {% for ev in page.current_events %}
 <div class="event">
   {% assign event = site.collections | where: "label", {{ev}} | first %}
-  <a href="{{ ev }}">{{ event.title }}</a>
+  {% for static_file in site.static_files %}
+      {% if static_file.path == "/media/{{event.type}}.png" %}
+          {% assign typeicon = "/media/{{event.type}}.png" %}
+      {% else %}
+          {% assign typeicon = "/media/defaulttype.png" %}
+      {% endif %}
+  {% endfor %}
+  <a href="{{ ev }}">
+    <img src="{{typeicon}}" alt="{{ event.type }} - {{ event.date }}"/>
+    {{ event.type }}<br />
+    {{ event.date }}
+  </a>
 </div>
 {% endfor %}
 </div>
@@ -35,9 +46,21 @@ and others work and play with technology.
 <h2>Past events</h2>
 
 {% for ev in page.past_events %}
+
 <div class="event">
   {% assign event = site.collections | where: "label", {{ev}} | first %}
-  <a href="{{ ev }}">{{ event.title }}</a>
+  {% for static_file in site.static_files %}
+      {% if static_file.path == "/media/{{event.type}}.png" %}
+          {% assign typeicon = "/media/{{event.type}}.png" %}
+      {% else %}
+          {% assign typeicon = "/media/defaulttype.png" %}
+      {% endif %}
+  {% endfor %}
+  <a href="{{ ev }}">
+    <img src="{{typeicon}}" alt="{{ event.type }} - {{ event.date }}"/>
+    {{ event.type }}<br />
+    {{ event.date }}
+  </a>
 </div>
 {% endfor %}
 </div>

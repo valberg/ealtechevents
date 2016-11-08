@@ -21,27 +21,42 @@ collections:
     output: true
     permalink: /:collection/:title.html
     title: Tech talks - November 24
+    type: Tech talk
+    date: November 24
   gamejam_2016_nov:
     output: true
     permalink: /:collection/:title.html
-    title: Gamejam - November 18-20 
+    title: Gamejam - November 18-20
+    type: Gamejam
+    date: November 18-20
   hackathon_2016_oct:
     output: true
     permalink: /:collection/:title.html
     title: Hackathon - October 28-30
+    type: Hackathon
+    date: October 28-30
   techtalks_2016_oct:
     output: true
     permalink: /:collection/:title.html
     title: Tech talks - October 27
+    type: Tech talks
+    date: October 27
   techtalks_2016_sep:
     output: true
     permalink: /:collection/:title.html
     title: Tech talks - September 29
+    type: Tech talks
+    date: September 29
   gamejam_2016_sep:
     output: true
     permalink: /:collection/:title.html
     title: Gamejam - September 16-18
+    type: Gamejam
+    date: September 16-18
   hackathon_2016_may:
     output: true
     permalink: /:collection/:title.html
     title: Hackathon - May 20-22
+    type: Hackathon
+    date: May 20-22
+    

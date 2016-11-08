@@ -147,6 +147,7 @@ a:visited { color: #205caa; }
 .events {
   width: 100%;
   float: left;
+  text-align: center
 }
 
 .events a {
