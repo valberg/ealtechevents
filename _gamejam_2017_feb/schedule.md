@@ -1,0 +1,42 @@
+---
+layout: page
+title: Schedule
+eventpath: gamejam_2017_feb
+---
+
+* TOC
+{:toc}
+
+## Schedule
+
+### Friday Feburary 24
+------------------
+
+| Time  | Comment |
+| ------------- | ------------- |
+| 17.00 | The doors Open and we meet in room B2.48.<br /> Pizzas will be ordered from the local vendors<br /> A how to survive a Gamejam guide by Jakob Arndal <br /> Revelation of topic and final groupings |
+| 17:30 | GameJam Commences! |
+
+### Saturday February 25
+
+GameJamming all day
+
+| Time  | Comment |
+| ------------- | ------------- |
+| 10.00 - 11.00 | Breakfast for those who wants to socialize. (Bring your own) |
+
+### Sunday February 26
+
+GameJamming in the morning
+
+| Time  | Comment |
+| ------------- | ------------- |
+| 12:00 | Expo, show & tell and voting (see below) |
+| 13.00-ish and onwards | Cleaning and Chillaxing |
+| 16.00 | Game jam officially ends |
+
+Competition rules
+
+* Each group has 10 minutes to show their games and give a short presentation.
+* After the final games has been shown Voting will commence.
+* The voting process is for each participant to rank three games: the first gets 3 points, the second two points and one point for honourable mention

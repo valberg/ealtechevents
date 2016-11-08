@@ -59,4 +59,9 @@ collections:
     title: Hackathon - May 20-22
     type: Hackathon
     date: May 20-22
-    
+  gamejam_2017_feb:
+    output: true
+    permalink: /:collection/:title.html
+    title: Gamejam - February 24-26
+    type: Gamejam
+    date: February 24-26
