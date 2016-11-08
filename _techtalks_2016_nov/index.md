@@ -8,9 +8,6 @@ title: Introduction
 Tech talks - November 24th at 16:30
 ------------------------------------
 
-This is the first edition of our recurrent tech talks. Please join us, and make the event memorable.
-
-
 See the [talks page](talks.html) for the topics are scheduled
 
 
@@ -45,7 +42,5 @@ Go to the registration page to [sign up](sign_up.html)
 
 Bootnotes
 --------------
-
-In the coming weeks, we will continuously update the content to reflect any changes.
 
 If you have any questions, please [send an email](mailto:{{ site.email }}) or write to us on facebook
