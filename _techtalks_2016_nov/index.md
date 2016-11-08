@@ -1,11 +1,11 @@
 ---
 layout: page
-eventpath: techtalks_2016_sep
+eventpath: techtalks_2016_nov
 title: Introduction
 ---
 
 
-Tech talks - September 29th at 16:30
+Tech talks - November 24th at 16:30
 ------------------------------------
 
 This is the first edition of our recurrent tech talks. Please join us, and make the event memorable.

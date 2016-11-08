@@ -1,15 +1,12 @@
 ---
 layout: page
-eventpath: techtalks_2016_sep
+eventpath: techtalks_2016_oct
 title: Introduction
 ---
 
 
-Tech talks - September 29th at 16:30
+Tech talks - October 27th at 16:30
 ------------------------------------
-
-This is the first edition of our recurrent tech talks. Please join us, and make the event memorable.
-
 
 See the [talks page](talks.html) for the topics are scheduled
 

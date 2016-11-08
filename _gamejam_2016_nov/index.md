@@ -1,12 +1,12 @@
 ---
 layout: page
-eventpath: gamejam_2016_sep
+eventpath: gamejam_2016_nov
 title: Introduction
 ---
 
 
-Gamejam - September 2016 edition
---------------------------------- 
+Gamejam - November 18-20
+---------------------------------
 
 This is the page where we will collect relevant information related to the gamejam.
 
@@ -30,7 +30,7 @@ Who should come?
 --------------------
 
 * Everybody with an geeky interest in IT
-* Programmers, electronics devs, sys­admins, networkadmins, senior/junior/noobs
+* Programmers, webdevs, designers, electronics devs, sys­admins, netadmins, senior/junior/noobs
 
 
 I want to come, now what?
@@ -45,4 +45,3 @@ Bootnotes
 In the coming weeks, we will continuously update the content to reflect any changes.
 
 If you have any questions, please [send an email](mailto:{{ site.email }}) or write to us on facebook
-

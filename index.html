@@ -1,0 +1,45 @@
+---
+layout: page
+current_events:
+- gamejam_2016_nov
+- techtalks_2016_nov
+past_events:
+- hackathon_2016_may
+- gamejam_2016_sep
+- techtalks_2016_sep
+- techtalks_2016_oct
+- hackathon_2016_oct
+---
+
+
+Welcome to the site. Here we collect the information related to EAL tech events
+
+
+<h2>What is this?</h2>
+
+Tech events at EAL is part of our efforts to create an environment at EAL, where students, staff
+and others work and play with technology.
+
+<div class="events">
+<h2>What is scheduled?</h2>
+
+{% for ev in page.current_events %}
+<div class="event">
+  {% assign event = site.collections | where: "label", {{ev}} | first %}
+  <a href="{{ ev }}">{{ event.title }}</a>
+</div>
+{% endfor %}
+</div>
+
+<div class="events">
+<h2>Past events</h2>
+
+{% for ev in page.past_events %}
+<div class="event">
+  {% assign event = site.collections | where: "label", {{ev}} | first %}
+  <a href="{{ ev }}">{{ event.title }}</a>
+</div>
+{% endfor %}
+</div>
+
+Media files are located <a href="media">here</a>

@@ -17,15 +17,31 @@ markdown: kramdown
 permalink: pretty
 
 collections:
+  techtalks_2016_nov:
+    output: true
+    permalink: /:collection/:title.html
+    title: Tech talks - November 24
+  gamejam_2016_nov:
+    output: true
+    permalink: /:collection/:title.html
+    title: Gamejam - November 18-20 
   hackathon_2016_oct:
     output: true
     permalink: /:collection/:title.html
+    title: Hackathon - October 28-30
+  techtalks_2016_oct:
+    output: true
+    permalink: /:collection/:title.html
+    title: Tech talks - October 27
   techtalks_2016_sep:
     output: true
     permalink: /:collection/:title.html
-  gamejam_2016_sep: 
+    title: Tech talks - September 29
+  gamejam_2016_sep:
     output: true
     permalink: /:collection/:title.html
+    title: Gamejam - September 16-18
   hackathon_2016_may:
     output: true
     permalink: /:collection/:title.html
+    title: Hackathon - May 20-22

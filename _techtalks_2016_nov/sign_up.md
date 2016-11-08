@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About/Sign up
-eventpath: techtalks_2016_sep
+eventpath: techtalks_2016_nov
 ---
 
 * TOC
@@ -9,8 +9,6 @@ eventpath: techtalks_2016_sep
 
 Time
 ------------
-
-Thursday September 29th at 16:30
 
 For the talks go [here](talks.html)
 
