@@ -13,7 +13,11 @@ Media related to events
 
 Other
 ------
- 
-logo
 
-![logo](logo1.png)
+Tech event logo
+
+![Tech event logo](techevent_logo_tr.png)
+
+EAL logo
+
+![EAL logoxx](eal-logo.svg)
