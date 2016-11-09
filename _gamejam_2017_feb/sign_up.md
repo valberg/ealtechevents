@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About/Sign up
-eventpath: gamejam_2016_nov
+eventpath: gamejam_2017_feb
 ---
 
 * TOC

@@ -1,6 +1,6 @@
 ---
 layout: page
-eventpath: gamejam_2016_feb
+eventpath: gamejam_2017_feb
 title: Introduction
 ---
 
