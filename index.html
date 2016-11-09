@@ -25,15 +25,15 @@ and others work and play with technology.
 <h2>What is scheduled?</h2>
 
 {% for ev in page.current_events %}
-<div class="event">
   {% assign event = site.collections | where: "label", {{ev}} | first %}
+  {% assign customIconPath = "/media/" | append: event.type | append: ".png" %}
+  {% assign typeicon = "/media/defaulttype.png" %}
   {% for static_file in site.static_files %}
-      {% if static_file.path == "/media/{{event.type}}.png" %}
-          {% assign typeicon = "/media/{{event.type}}.png" %}
-      {% else %}
-          {% assign typeicon = "/media/defaulttype.png" %}
+      {% if static_file.path == customIconPath %}
+          {% assign typeicon = customIconPath %}
       {% endif %}
   {% endfor %}
+  <div class="event">
   <a href="{{ ev }}">
     <img src="{{typeicon}}" alt="{{ event.type }} - {{ event.date }}"/>
     {{ event.type }}<br />
@@ -47,16 +47,16 @@ and others work and play with technology.
 <h2>Past events</h2>
 
 {% for ev in page.past_events %}
+{% assign event = site.collections | where: "label", {{ev}} | first %}
+{% assign customIconPath = "/media/" | append: event.type | append: ".png" %}
+{% assign typeicon = "/media/defaulttype.png" %}
+{% for static_file in site.static_files %}
+    {% if static_file.path == customIconPath %}
+        {% assign typeicon = customIconPath %}
+    {% endif %}
+{% endfor %}
 
 <div class="event">
-  {% assign event = site.collections | where: "label", {{ev}} | first %}
-  {% for static_file in site.static_files %}
-      {% if static_file.path == "/media/{{event.type}}.png" %}
-          {% assign typeicon = "/media/{{event.type}}.png" %}
-      {% else %}
-          {% assign typeicon = "/media/defaulttype.png" %}
-      {% endif %}
-  {% endfor %}
   <a href="{{ ev }}">
     <img src="{{typeicon}}" alt="{{ event.type }} - {{ event.date }}"/>
     {{ event.type }}<br />
