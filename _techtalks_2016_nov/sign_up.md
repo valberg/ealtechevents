@@ -49,7 +49,7 @@ The train station is a [9 minute walk](https://www.google.dk/maps/dir/Odense+St.
 Food and accomodation
 ---------------------
 
-We are currently looking into this, and will be back with more information later.
+There will be coffee and water for the audience.
 
 
 Media
