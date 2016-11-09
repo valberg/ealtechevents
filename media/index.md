@@ -18,6 +18,11 @@ Tech event logo
 
 ![Tech event logo](techevent_logo_tr.png)
 
+Tech event banner
+
+![Tech event banner](techevent_banner_tr.png)
+
+
 EAL logo
 
 ![EAL logoxx](eal-logo.svg)
