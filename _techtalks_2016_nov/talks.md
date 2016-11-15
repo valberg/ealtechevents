@@ -18,9 +18,7 @@ Schedule for Thursday November 24th
 | Time  | Comment |
 | ------------- | ------------- |
 | 16:30 | Welcome and introductions |
-| 16:40 | TBA |
-| 17:15 | TBA |
-| 17:50 | TBA |
-| 18:25 | TBA |
-| 19:00 | TBA |
-| 19:35 | Hands-on and informal networking |
+| 16:40 | Merete Stenner on Online communication |
+| 17:20 | TBA |
+| 18:00 | TBA |
+| 18:40 | Adam Cz will host a workshop on AI |
