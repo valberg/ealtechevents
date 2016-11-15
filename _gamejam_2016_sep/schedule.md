@@ -38,4 +38,10 @@ GameJamming in the morning
 | 16.00 | Game jam officially ends |
 
 
+Realized games
+-----------------
 
+The theme was unicorns...
+
+* [Tower defense](https://github.com/jona8690/UnicornTD)
+* [Unicorn hunting](https://moozing.wordpress.com/2016/10/01/unicorns-everywhere-a-gamejam-writeup/)
