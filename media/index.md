@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Media
+eventmedia:
+- techtalks_2016_nov
+- gamejam_2016_sep
+- hackathon_2016_may
 ---
 
 * TOC
@@ -8,9 +12,10 @@ title: Media
 
 ## Media related to events
 
-* [Gamejam - Septeber 16-18](gamejam_2016_sep)
-* [Hackathon - May 20-22](hackathon_2016_may)
-
+{% for ev in page.eventmedia %}
+  {% assign event = site.collections | where: "label", {{ev}} | first %}
+* [{{ event.type }} - {{ event.date }}]({{ev}})
+{% endfor %}
 
 ## Other
 
