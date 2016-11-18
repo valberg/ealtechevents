@@ -21,7 +21,7 @@ collections:
     output: true
     permalink: /:collection/:title.html
     title: Tech talks - November 24
-    type: Tech talk
+    type: Tech talks
     date: November 24
   gamejam_2016_nov:
     output: true
