@@ -26,7 +26,8 @@ We do not publish presenters email adresses, so any questions to the presenters 
 
 ## Teaching online - pitfalls and recommendations (Merete Stenner)
 
-You will be introduced to the world on online teaching solutions, from the minimalistic DIY setup to feature-rich hosted solutions.
+You will be introduced to the world on online teaching solutions, from the minimalistic DIY setup to feature-rich hosted solutions. People who consider teaching online but are confused by the many
+options and don't know where to start, could start with this talk.
 
 ## How the Internet works (Hans Randeris Nielsen)
 
