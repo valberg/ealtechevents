@@ -19,7 +19,7 @@ We do not publish presenters email adresses, so any questions to the presenters 
 | ------------- | ------------- |
 | 16:30 | Welcome and introductions |
 | 16:40 | Teaching online - pitfalls and recommendations (Merete Stenner) |
-| 17:20 | TBA |
+| 17:20 | How the Internet works (Hans Randeris Nielsen) |
 | 18:00 | TBA |
 | 18:40 | Adam Cz will host a workshop on AI |
 
@@ -27,3 +27,7 @@ We do not publish presenters email adresses, so any questions to the presenters 
 ## Teaching online - pitfalls and recommendations (Merete Stenner)
 
 You will be introduced to the world on online teaching solutions, from the minimalistic DIY setup to feature-rich hosted solutions.
+
+## How the Internet works (Hans Randeris Nielsen)
+
+What actually happens on the network when you open a website.
