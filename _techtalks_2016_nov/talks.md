@@ -43,13 +43,13 @@ Create, Build and Play.
 
 But first you will need to download Eclipse. 
 If you are using Windows follow this link:
-https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-win64.exe 
+[https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-win64.exe](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-win64.exe)
 
 If you are using Linux please follow this link:
-https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-linux64.tar.gz 
+[https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-linux64.tar.gz](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/neon/R1/eclipse-inst-linux64.tar.gz)
 
 Next you will need to download the LUDO game:
-https://github.com/reaverDK/LUDO-AI.git 
+[https://github.com/reaverDK/LUDO-AI.git](https://github.com/reaverDK/LUDO-AI.git)
 
 All set! You are now ready to follow the talk and explore some artificial intelligence 
 
