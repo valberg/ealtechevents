@@ -41,7 +41,7 @@ The train station is a [9 minute walk](https://www.google.dk/maps/dir/Odense+St.
 Food and accomodation
 ---------------------
 
-There will be coffee and water for the audience.
+There will be cofee and water for the audience.
 
 
 Media
