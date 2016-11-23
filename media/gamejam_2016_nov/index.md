@@ -1,6 +1,6 @@
 ---
 layout: medialist
-eventname: Tech talks - November 24
+eventname: Gamejam - November 18-20
 other_files:
 - Gamejam_2016_nov.pdf
 - Gamejam_2016_nov.png
