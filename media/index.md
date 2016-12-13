@@ -3,6 +3,7 @@ layout: page
 title: Media
 eventmedia:
 - techtalks_2016_nov
+- gamejam_2016_nov
 - techtalks_2016_oct
 - techtalks_2016_sep
 - gamejam_2016_sep
