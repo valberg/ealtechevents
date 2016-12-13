@@ -17,6 +17,12 @@ markdown: kramdown
 permalink: pretty
 
 collections:
+  techtalks_2017_jan:
+    output: true
+    permalink: /:collection/:title.html
+    title: Tech talks - January 26
+    type: Tech talks
+    date: January 26
   techtalks_2016_nov:
     output: true
     permalink: /:collection/:title.html
