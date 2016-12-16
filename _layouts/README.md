@@ -29,4 +29,6 @@ both are lists to be defined in the front matter
 Lists all talk media residing in `/media/<eventname>/Talks` under the Talks section.
 Similar for "Oher" subdirectory.
 
+Any text written in the `content` part of the file using the layout will be added netween the title and the `Talks` section
+
 (it ought to be automatic, but directory handling is weird)
