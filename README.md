@@ -14,7 +14,7 @@ To use
 3. [Install jekyll](https://jekyllrb.com/docs/installation/)
 4. `cd ealtechevents`
 5. `bundle install --path .gem`
-5. `bundle exec jeyll serve` or `bundle exec jeyll serve --host 0.0.0.0` 
+5. `bundle exec jekyll serve` or `bundle exec jekyll serve --host 0.0.0.0` 
 6. go to [http://localhost:4000](http://localhost:4000) to see the result
 
 Update the site, issue a git commit, push it and do a [pull request](https://help.github.com/articles/using-pull-requests/) to get it included in the live website.
