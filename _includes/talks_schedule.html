@@ -1,3 +1,5 @@
+{% assign talks = (event.docs | where: "layout", "talk" | sort: "time") %}
+
 <table>
   <thead>
     <tr>
