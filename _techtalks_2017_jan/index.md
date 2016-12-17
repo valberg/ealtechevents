@@ -7,7 +7,7 @@ title: Introduction
 {% assign eventname = path_elements[1] %}
 {% assign event = site.collections | where: "label", eventname | first %}
 
-Tech talks - January 26th at 15:00
+{{ event.title }}
 ------------------------------------
 
 ### Scheduled talks
