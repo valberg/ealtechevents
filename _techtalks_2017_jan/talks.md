@@ -11,23 +11,17 @@ eventpath: techtalks_2017_jan
 
 We do not publish presenters email adresses, so any questions to the presenters should be directed to [the organisers](mailto:{{ site.email }}) and we will forward your questions.
 
+{% assign talks = (event.docs | where: "layout", "talk" | sort: "time") %}
+
 
 ## Schedule for Thursday {{ event.date }}
 
+{% include talks_schedule.html %}
 
-| Time  | Comment |
-| ------------- | ------------- |
-| 15:00 | Welcome and introductions |
-| 15:10 | Virtual Reality, physical learning and value-added games |
-| 15:50 | Virtual Reality and movies of the future |
-| 16:30 | *To be confirmed* |
-| 17:10 | *To be confirmed* |
+{% for talk in talks %}
+  {% if talk.description %}
+## {{talk.title }} ({{talk.presenter}})
+{{ talk.description }}
 
-
-## Virtual Reality, physical learning and value-added games (Den Fynske Spilfabrik/The Danish Game Factory)
-
-Description to come
-
-## Virtual Reality and movies of the future (Den Fynske Spilfabrik/The Danish Game Factory)
-
-Description to come
+  {% endif %}
+{% endfor %}

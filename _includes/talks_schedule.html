@@ -1,0 +1,16 @@
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Comment</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for talk in talks %}
+    <tr>
+      <td> {{talk.time }} </td>
+      <td> {{talk.title}} </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
