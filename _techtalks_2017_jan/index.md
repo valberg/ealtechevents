@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Introduction
-eventpath: techtalks_2017_jan
-
 ---
 
 {% assign path_elements = page.url | split: "/"  %}
