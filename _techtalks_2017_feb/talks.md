@@ -1,24 +1,26 @@
 ---
 layout: page
 title: Talks
-eventpath: techtalks_2017_feb
 ---
 
 * TOC
 {:toc}
 
-{% assign event = site.collections | where: "label", page.eventpath | first %}
+{% assign path_elements = page.url | split: "/"  %}
+{% assign eventname = path_elements[1] %}
+{% assign event = site.collections | where: "label", eventname | first %}
 
 We do not publish presenters email adresses, so any questions to the presenters should be directed to [the organisers](mailto:{{ site.email }}) and we will forward your questions.
 
-
 ## Schedule for Thursday {{ event.date }}
 
+{% include talks_schedule.html %}
 
-| Time  | Comment |
-| ------------- | ------------- |
-| 15:00 | Welcome and introductions |
-| 15:10 | *To be confirmed* |
-| 15:50 | *To be confirmed* |
-| 16:30 | *To be confirmed* |
-| 17:10 | *To be confirmed* |
+{% assign talks = (event.docs | where: "layout", "talk" | sort: "time") %}
+{% for talk in talks %}
+  {% if talk.description %}
+## {{talk.title }} ({{talk.presenter}})
+{{ talk.description }}
+
+  {% endif %}
+{% endfor %}

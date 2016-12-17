@@ -3,11 +3,18 @@ layout: page
 title: Introduction
 ---
 
+{% assign path_elements = page.url | split: "/"  %}
+{% assign eventname = path_elements[1] %}
+{% assign event = site.collections | where: "label", eventname | first %}
 
-Tech talks - January 26th at 15:00
+{{ event.title }}
 ------------------------------------
 
-See the [talks page](talks.html) for the topics are scheduled
+### Scheduled talks
+
+{% include talks_schedule.html %}
+
+See the [talks page](talks.html) for information
 
 
 What are tech talks?
