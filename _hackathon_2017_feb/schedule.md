@@ -25,7 +25,7 @@ The event is scheduled for the weekend {{ event.date }}
 
 ### Saturday
 
-Nothing specific planned except continued work on the games
+Nothing specific planned except continued work on the projects
 
 
 ### Sunday
