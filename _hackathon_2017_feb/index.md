@@ -18,9 +18,9 @@ This is the page where we will collect relevant information related to the hacka
 What is this?
 ---------------
 
-A hackathon is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects.
+Build IT days is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects.
 
-This hackathon we will find interesting people and projects, who will pitch their ideas. We will then "vote with our feet" to join the most interesting project, and create a working prototype by Sunday. See the [schedule page]({{site.baseurl}}/{{eventname}}/schedule.html) for a brief description of the projects. Feel free to come with your own idea and pith it!
+We will find interesting people and projects, who will pitch their ideas. The idea is then "vote with our feet" to join the most interesting project, and create a working prototype by Sunday. See the [schedule page]({{site.baseurl}}/{{eventname}}/schedule.html) for a brief description of the projects. Feel free to come with your own idea and pith it!
 
 No coding, artist or other skills are required. Just your willingness to help
 

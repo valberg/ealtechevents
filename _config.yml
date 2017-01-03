@@ -20,8 +20,8 @@ collections:
   hackathon_2017_feb:
     output: true
     permalink: /:collection/:title.html
-    title: Hackathon - February 10-12
-    type: Hackathon
+    title: Build IT days - February 10-12
+    type: Build IT days
     date: February 10-12
   techtalks_2017_feb:
     output: true

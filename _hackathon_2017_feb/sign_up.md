@@ -29,7 +29,7 @@ Please note that the windows must be kept closed throughout the weeked. This is 
 To registrer
 ---------------
 
-To register, please [send an email](mailto:{{ site.email }}) or sign up to the event on facebook.
+To register, please [send an email](mailto:{{ site.email }}).
 
 
 Transportation

@@ -38,4 +38,4 @@ Nothing specific planned except continued work on the games
 
 ## Proposed projects
 
-(descriotions to come)
+(descriptions to come)
