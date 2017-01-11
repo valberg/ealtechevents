@@ -39,7 +39,7 @@ Who should come?
 --------------------
 
 * Everybody with an interest in IT and want to built something with others
-* Programmers, electronics devs, sys­admins, networkadmins, senior/junior/noobs
+* Programmers, electronics devs, sys­admins, networkadmins, senior/junior/newbies
 
 
 I want to come, now what?
