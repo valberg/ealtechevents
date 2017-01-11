@@ -18,11 +18,13 @@ past_events:
 
 Welcome to the site. Here we collect the information related to EAL tech events
 
-
+<div>
 <h2>What is this?</h2>
 
 Tech events at EAL is part of our efforts to create an environment at EAL, where students, staff
 and others work and play with technology.
+
+</div>
 
 <div class="events">
 <h2>What is scheduled?</h2>
@@ -44,6 +46,11 @@ and others work and play with technology.
   </a>
 </div>
 {% endfor %}
+</div>
+
+<div class="events">
+<h2>Sign up for our newsletter</h2>
+{% include mailchimp_signup.html %}
 </div>
 
 <div class="events">
@@ -69,4 +76,6 @@ and others work and play with technology.
 {% endfor %}
 </div>
 
+<div>
 Media files are located <a href="media">here</a>
+</div>
