@@ -50,3 +50,5 @@ Bootnotes
 --------------
 
 If you have any questions, please [send an email](mailto:{{ site.email }}) or write to us on facebook
+
+Please note the rules related to [parking](sign_up.html#transportation-and-parking-).
