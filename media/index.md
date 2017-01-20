@@ -38,6 +38,10 @@ eventmedia:
 ![Gamejam logo](gamejam_logo_small.png)
 ![Gamejam logo (big)](gamejam_logo_big.png)
 
+### Tech talks logo
+
+![Tech talk logo](Tech talks.png)
+
 ### EAL logo
 
 ![EAL logoxx](eal-logo.svg)
