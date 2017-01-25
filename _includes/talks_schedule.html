@@ -11,7 +11,7 @@
     {% for talk in talks %}
     <tr>
       <td> {{talk.time }} </td>
-      <td> {{talk.title}} </td>
+      <td> {{talk.title}} {% if talk.presenter %}({{talk.presenter}}){% endif %}</td>
     </tr>
     {% endfor %}
   </tbody>
