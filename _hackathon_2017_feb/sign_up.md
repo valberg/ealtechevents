@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About/Sign up
-eventpath: hackathon_2016_oct
 ---
 
 * TOC
@@ -10,7 +9,7 @@ eventpath: hackathon_2016_oct
 Time
 ------------
 
-For the schedule go [here]({{ site.baseurl }}/{{ page.eventpath }}/schedule.html)
+For the schedule go [here]({{site.baseurl}}/{{eventname}}/schedule.html)
 
 
 Venue

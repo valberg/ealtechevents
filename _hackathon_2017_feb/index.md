@@ -1,6 +1,5 @@
 ---
 layout: page
-eventpath: hackathon_2016_oct
 title: Introduction
 ---
 
@@ -45,7 +44,7 @@ Who should come?
 I want to come, now what?
 -----------------------------
 
-Go to the registration page to [sign up]({{site.baseurl}}/{{page.eventpath}}/sign_up.html)
+Go to the registration page to [sign up]({{site.baseurl}}/{{eventname}}/sign_up.html)
 
 
 Bootnotes
