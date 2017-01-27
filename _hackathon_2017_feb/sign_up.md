@@ -3,6 +3,10 @@ layout: page
 title: About/Sign up
 ---
 
+{% assign path_elements = page.url | split: "/"  %}
+{% assign eventname = path_elements[1] %}
+{% assign event = site.collections | where: "label", eventname | first %}
+
 * TOC
 {:toc}
 
