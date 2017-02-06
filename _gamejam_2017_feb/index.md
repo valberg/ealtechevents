@@ -5,11 +5,14 @@ title: Introduction
 ---
 
 
-Gamejam - February 24-26
+Gamejam - February 24-26 
 ---------------------------------
 
 This is the page where we will collect relevant information related to the gamejam.
 
+When is this?
+---------------
+February 24-26 at 17:00. The Room will be disclosed at at later date.
 
 What is this?
 ---------------
