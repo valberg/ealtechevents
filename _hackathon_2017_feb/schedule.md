@@ -38,4 +38,10 @@ Nothing specific planned except continued work on the projects
 
 ## Proposed projects
 
-(descriptions to come)
+### China VPN (Morten)
+
+I want to set up a network that may be used to connect using VPN from china. 
+
+It must be secured and we want to see what th great firewall of china is doing when you connect. In order to do that, we need a plan, some intrusion detection, loggin, and whatnot.
+
+I will probably do most of it using ansible.
