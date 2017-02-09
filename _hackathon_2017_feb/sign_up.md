@@ -35,10 +35,13 @@ To registrer
 To register, please [send an email](mailto:{{ site.email }}).
 
 
-Transportation
+Transportation and parking (!)
 ------------
 
-There is free parking in the parking lot on site from friday 16:00 and throughout the entire weekend.
+There is free parking, but ...
+
+You must announnce your arrival to get a parking permit. This is done by sending an email to [eal@eal.dk](mailto:eal@eal.dk) including name, license plate and mobile phone number. The official guide is [here](https://www.eal.dk/international/contact/find-us/seebladsgade-1/)
+
 
 The train station is a [9 minute walk](https://www.google.dk/maps/dir/Odense+St.,+Odense/Seebladsgade+1,+5000+Odense/@55.4031864,10.3791838,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x464cdffe94c69193:0x55f5ab9b0f2af888!2m2!1d10.3871575!2d55.4012807!1m5!1m1!1s0x464cdffce26d61f5:0xb3c45d391e70236f!2m2!1d10.379334!2d55.403458!3e2) from the venue.
 
