@@ -9,6 +9,8 @@ description: "EAL tech events are events organised by the EAL tech event team. W
 facebook_grouplink: EAL-Tech-Events-611093869078957
 facebook_groupname: EAL tech events
 
+mailchimp_uid: 095ca459584090b1b21d19b99
+
 url: https://techevents.eal.dk
 baseurl: ""
 
@@ -23,6 +25,7 @@ collections:
     title: Build IT days - February 10-12
     type: Build IT days
     date: February 10-12
+    mailchimp_listid: a3e3587065
   techtalks_2017_feb:
     output: true
     permalink: /:collection/:title.html

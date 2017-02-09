@@ -32,7 +32,9 @@ Please note that the windows must be kept closed throughout the weeked. This is 
 To registrer
 ---------------
 
-To register, please [send an email](mailto:{{ site.email }}).
+To register, signup here
+
+{% include mailchimp_signup.html listid=event.mailchimp_listid uid=site.mailchimp_uid %}
 
 
 Transportation and parking (!)

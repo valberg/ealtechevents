@@ -1,5 +1,6 @@
 ---
 layout: page
+mailchimp_listid: ddce44761f
 current_events:
 - hackathon_2017_feb
 - gamejam_2017_feb
@@ -50,7 +51,7 @@ and others work and play with technology.
 
 <div class="events">
 <h2>Sign up for our newsletter</h2>
-{% include mailchimp_signup.html %}
+{% include mailchimp_signup.html listid=page.mailchimp_listid uid=site.mailchimp_uid %}
 </div>
 
 <div class="events">
