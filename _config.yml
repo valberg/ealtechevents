@@ -32,6 +32,7 @@ collections:
     title: Tech talks - February 23rd
     type: Tech talks
     date: February 23
+    mailchimp_listid: 58508751ab
   techtalks_2017_jan:
     output: true
     permalink: /:collection/:title.html
