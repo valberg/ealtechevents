@@ -12,7 +12,7 @@ This is the page where we will collect relevant information related to the gamej
 
 When is this?
 ---------------
-February 24-26 at 17:00. The Room will be disclosed at at later date.
+February 24-26 at 17:00. at Seebladsgade 1, 5000 Odense C, in room B2.48
 
 What is this?
 ---------------
