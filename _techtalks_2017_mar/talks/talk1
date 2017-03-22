@@ -3,5 +3,6 @@ layout: talk
 title: Next-generation firewalls
 time: "15:10"
 presenter: Erik Løth/Palo Alto networks
-description: [To come]
+description: What are next-generation firewalls?<br />How do we handle internet-of-things devices? <br />Users are at the centre and they move very fast while still requiring a safe network.
+
 ---
