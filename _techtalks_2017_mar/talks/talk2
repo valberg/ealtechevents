@@ -1,5 +1,7 @@
 ---
 layout: talk
-title: <em>To be confirmed</em>
+title: Containerization and security
+presenter: David Johannes Christensen
 time: "15:50"
+description: Software and IT is moving towards containers, and with it comes the concern of security. <br />The cloud environments already have multiple people sharing the same machines, the same kernels and the same network - and it is therefore a necessity to ensure that a malicious container cannot gain access to all the legitimate containers around it. <br />This talk deals with containers and security, specifically docker, and a story of how wrong it can go from Praqmas internal operations as well as the learnings from running containers on Amazon Web Services (AWS). 
 ---
