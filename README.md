@@ -13,6 +13,7 @@ Common tasks
 In each `_techtalks_xxx` directory there is a subdirectory called `talks`.
 
 The files contains the following
+```yml
 > ---
 > layout: talk
 > title: This text is shown as the title
@@ -20,6 +21,7 @@ The files contains the following
 > time: e.g. "15:10". This is shown as time and the sorting is based on this
 > description: This is the description. It may include <em>html</em>
 > ---
+```
 
 The name of the file is not used.
 
