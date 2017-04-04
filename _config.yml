@@ -19,6 +19,20 @@ markdown: kramdown
 permalink: pretty
 
 collections:
+  techtalks_2017_may:
+    output: true
+    permalink: /:collection/:title.html
+    title: Tech talks - June 1st
+    type: Tech talks
+    date: June 1
+    mailchimp_listid: 287c0d2e83
+  techtalks_2017_apr:
+    output: true
+    permalink: /:collection/:title.html
+    title: Tech talks - April 27th
+    type: Tech talks
+    date: April 27
+    mailchimp_listid: 013a9da687
   techtalks_2017_mar:
     output: true
     permalink: /:collection/:title.html

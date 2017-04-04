@@ -2,8 +2,10 @@
 layout: page
 mailchimp_listid: f7d9e9184f
 current_events:
-- techtalks_2017_mar
+- techtalks_2017_may
+- techtalks_2017_apr
 past_events:
+- techtalks_2017_mar
 - gamejam_2017_feb
 - hackathon_2017_feb
 - techtalks_2017_jan
@@ -29,7 +31,6 @@ and others work and play with technology.
 
 <div class="events">
 <h2>What is scheduled?</h2>
-  <br />Tech talks in february have been cancelled <br />
 
 {% for ev in page.current_events %}
   {% assign event = site.collections | where: "label", {{ev}} | first %}
