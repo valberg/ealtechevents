@@ -2,6 +2,7 @@
 layout: page
 title: Media
 eventmedia:
+- techtalks_2017_mar
 - techtalks_2017_feb
 - techtalks_2017_jan
 - techtalks_2016_nov
