@@ -38,7 +38,7 @@ collections:
     permalink: /:collection/:title.html
     title: Hyg'n'hack with PROSA - April 29th
     type: Hyg'n'hack
-    date: April 19th
+    date: April 29th
   techtalks_2017_apr:
     output: true
     permalink: /:collection/:title.html
