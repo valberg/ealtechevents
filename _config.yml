@@ -26,6 +26,19 @@ collections:
     type: Tech talks
     date: June 1
     mailchimp_listid: 287c0d2e83
+  gamejam_2017_may:
+    output: true
+    permalink: /:collection/:title.html
+    title: Gamejam - June 9-11th
+    type: Gamejam
+    date: June May 9-11
+#    mailchimp_listid: 287c0d2e83
+  hackathon_2017_apr:
+    output: true
+    permalink: /:collection/:title.html
+    title: Hyg'n'hack with PROSA - April 29th
+    type: Hyg'n'hack
+    date: April 19th
   techtalks_2017_apr:
     output: true
     permalink: /:collection/:title.html
